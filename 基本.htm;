@@ -1,0 +1,23 @@
+用!把程式碼呼叫出來
+.用於class
+#用於id
+<style>(head)
+      .name{
+        color:darkgrey;
+      }
+      .class1{
+        color:blueviolet;
+      }
+      #id1{
+        background-color:darkslategray;
+        width: 500px;(範圍)
+      }
+    </style>
+    網頁的檢查更改是暫時的 要到後台更改才是完整
+    網頁內容寫body裡
+    <div class="box mt-5 ml-5 pl-3">box1</div> 
+    mt=上下間距 ml=左右間距 pl=字的間距
+    div class="box col-12">box1</div> 滿版
+      <div class="box col-4">box2</div>
+<div class="container-fluid"> 滿版
+.container +tab鍵
